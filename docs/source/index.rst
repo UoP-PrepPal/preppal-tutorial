@@ -1,4 +1,4 @@
-Welcome to PrepPal's documentation!
+PrepPal Test
 ===================================
 
 **PrepPal** is a Python library for cooks and food lovers
