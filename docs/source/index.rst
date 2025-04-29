@@ -1,7 +1,7 @@
 PrepPal Test
 ===================================
 
-**PrepPal** is a Python library for cooks and food lovers
+**PrepPal** is a web application for people to find and share recipes online.
 that creates recipes mixing random ingredients.
 It pulls data from the `Open Food Facts database <https://world.openfoodfacts.org/>`_
 and offers a *simple* and *intuitive* API.
