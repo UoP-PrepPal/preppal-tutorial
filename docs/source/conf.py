@@ -2,9 +2,9 @@
 
 # -- Project information
 
-project = 'Lumache'
-copyright = '2021, Graziella'
-author = 'Graziella'
+project = 'PrepPal'
+copyright = ''
+author = 'Team 4D'
 
 release = '0.1'
 version = '0.1.0'
