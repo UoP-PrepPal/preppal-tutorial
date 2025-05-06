@@ -21,5 +21,5 @@ Contents
 
 .. toctree::
    Features
-   usage 
+   Scope 
    api
