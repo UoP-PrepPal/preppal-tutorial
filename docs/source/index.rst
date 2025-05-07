@@ -20,6 +20,6 @@ Contents
 --------
 
 .. toctree::
-.. Features::
+   Features
    Scope 
    api
