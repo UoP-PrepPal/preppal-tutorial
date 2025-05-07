@@ -6,7 +6,7 @@ PrepPal - Project Features
 
 Core Objectives
 ---------------
-The Meal Prep App is a **mobile application** designed to simplify meal planning and recipe management. It focuses on:
+The PrepPal is a **mobile application** designed to simplify meal planning and recipe management. It focuses on:
 
 * **Personal recipe storage** (no social/sharing features)
 * **Streamlined user experience** with minimal complexity
