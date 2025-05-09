@@ -1,10 +1,6 @@
 PrepPal - Meal Prep Made Simple
 ===============================
 
-.. image:: _static/preppal-hero.png
-   :alt: PrepPal App Screenshot
-   :align: center
-   :width: 300px
 
 Welcome to PrepPal
 ------------------
