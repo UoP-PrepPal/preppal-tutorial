@@ -35,11 +35,11 @@ PrepPal is more than an app – it’s a **better way to cook**:
 ✨ *"I use this every Sunday – saves me hours!"*  
 ✨ *"So simple my grandma adopted it instantly!"*  
 
-.. note::  
+.. note::  :
    PrepPal is actively developed with ❤️ by Students who cook daily.  
    – this app solves our real kitchen problems!
 
-.. note::
+.. note:: 
 
    This project is under active development.
 
