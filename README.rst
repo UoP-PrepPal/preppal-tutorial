@@ -8,7 +8,7 @@ Why PrepPal?
 - 🍳 **No fuss recipe saving** - Just type and save
 - ⏲ **Time-friendly** - See cooking times at a glance
 - 📱 **Works anywhere** - Phone, tablet or computer
-- 🔒 **No passwords** - Easy email login
+- 🔒 **Secure & Simple** - Easy email login
 
 Try It Now
 ----------
