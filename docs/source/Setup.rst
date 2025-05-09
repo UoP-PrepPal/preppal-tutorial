@@ -1,4 +1,4 @@
-Local Development Setup
+PrepPal Local Development Setup
 ======================
 
 This guide explains how to set up the PrepPal application locally for development and testing.
