@@ -15,7 +15,7 @@ Included Features
 
 Account System
 ~~~~~~~~~~~~~~
-* ✔️ Email + username login (no password storage)
+* ✔️ Simple login 
 * ✔️ Unique username validation
 * ✔️ Session management (login/logout)
 
