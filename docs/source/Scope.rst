@@ -16,7 +16,7 @@ Key Boundaries
 
 2. **Technical Scope**:
    - Mobile-first design (iOS/Android compatible)
-   - Simplified authentication (email + username only)
+   - Simplified authentication 
    - Lightweight database architecture
 
 3. **Experience Priorities**:
